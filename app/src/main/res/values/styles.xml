@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme1">
+        <item name="textColor">@color/green_apple</item>
+        <item name="background">@color/s1</item>
+<!--        <item name="textSize">15sp</item>-->
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Theme2">
+        <item name="textColor">@color/sky_blue</item>
+        <item name="background">@color/s2</item>
+<!--        <item name="textSize">80sp</item>-->
+        <item name="android:textSize">50sp</item>
+    </style>
+
+</resources>
